@@ -6,3 +6,5 @@ Linguagens favoritas: Javascript e python
 Objetivo profissional: Ser programadora front-end  
 
 Hobbies: Passear, assistir series e novelas e brincar com os cachorros
+
+GitHub: https://github.com/ThamirysResende
